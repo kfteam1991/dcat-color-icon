@@ -1,5 +1,5 @@
 {
-    "name": "zhy/dcat-color-icon",
+    "name": "kfteam1991/dcat-color-icon",
     "alias": "Dcat 彩色Icon",
     "description": "为Dcat增加图标支持",
     "type": "library",
@@ -7,10 +7,6 @@
     "homepage": "https://github.com/zhengheyang1/dcat-color-icon",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Zhy",
-            "email": "993409033@qq.com"
-        }
     ],
     "require": {
         "php": ">=7.1.0",
