@@ -6,10 +6,10 @@ use Dcat\Admin\Form\Field\Text;
 class ColorIcon extends Text{
 
     public static $js = [
-        'vendor/dcat-admin-extensions/zhy/colorful-icon/js/fontawesome-iconpicker.js',
+        'vendor/dcat-admin-extensions/kfteam1991/colorful-icon/js/fontawesome-iconpicker.js',
     ];
     public static $css = [
-        'vendor/dcat-admin-extensions/zhy/colorful-icon/css/fontawesome-iconpicker.css'
+        'vendor/dcat-admin-extensions/kfteam1991/colorful-icon/css/fontawesome-iconpicker.css'
     ];
 
     public function render()
